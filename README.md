@@ -4,3 +4,4 @@
 ![image](https://github.com/hzl0898/thinkphp-jifang/blob/main/后台管理登录页面.png)
 ![image](https://github.com/hzl0898/thinkphp-jifang/blob/main/机房信息管理.png)
 ![image](https://github.com/hzl0898/thinkphp-jifang/blob/main/学生课表信息管理.png)
+![image](https://github.com/hzl0898/thinkphp-jifang/blob/main/学生实验报告管理.png)
